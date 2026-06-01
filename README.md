@@ -38,22 +38,6 @@ Planned release contents:
 - Example configuration files
 - Reproduction instructions for synthetic and real-world experiments
 
-## Repository Structure
-
-```text
-icip2026/
-├── assets/          # Figures and README resources
-├── configs/         # Experiment configuration files, coming soon
-├── data/            # Dataset links or preparation notes, coming soon
-├── docs/            # Additional documentation, coming soon
-├── examples/        # Demo examples, coming soon
-├── scripts/         # Utility scripts, coming soon
-├── src/             # Source code, coming soon
-├── third_party/     # External dependencies or setup notes, coming soon
-├── checkpoints/     # Pretrained or released model checkpoints, coming soon
-└── outputs/         # Example outputs and visualization results, coming soon
-```
-
 ## Citation
 
 If you find this work useful, please consider citing our paper. The BibTeX entry will be updated after the official proceedings information is available.
